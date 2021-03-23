@@ -16,7 +16,7 @@ namespace SUT_demo1
         }
         public int Add(int x, int y)
         {
-            return x * y;
+            return x + y;
         }
 
     }
